@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18410000388",
+    "project_id": "notification-assignment-d3abc",
+    "storage_bucket": "notification-assignment-d3abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18410000388:android:39ec9af0d55f2c33f46551",
+        "android_client_info": {
+          "package_name": "com.example.notificationassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18410000388-78vm08kd14s942ks227s049cihrahcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUO2PDLq1GXx_hoBbHxRkMl2d5VpzNgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18410000388-78vm08kd14s942ks227s049cihrahcao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
